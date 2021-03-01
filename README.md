@@ -1,4 +1,17 @@
-### Hi there 👋
+# ʜᴇʟʟᴏ ᴡᴏʀᴅ👾
+- 🌱 I’m currently learning Java, My SQL, Angular and SpringBoot at GenerationBrasil.org
+- 👯 I’m looking to collaborate anywhere
+- 💬 Ask me about Robotics, São Paulo, Java, Cooking
+- ⚡ Fun fact: I know how to produce combustible gas from the rest of the garbage
+
+---
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Mateus Peixoto Spotify Playing" width="350" />](https://open.spotify.com/user/22xvctzavgbne7bgk2hxhtdwq)
+
+### Connect with me:
+
+
 [<img align="left" alt="Rilton maicel | LinkedIn" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1614500518~hmac=c4116eb47140c3d1d86b18acd211e89f" />](https://www.linkedin.com/in/rilton-maciel-611a83168/)
 
 
