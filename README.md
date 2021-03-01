@@ -10,12 +10,6 @@
 
 ----
 
-<img align="left" width="356" height="200" src="https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif">
-
-<p align="center">
-  Aqui se encontra um pouco do meu trabalho. Fique a vontade para explorá-lo.
-</p>
-
 <p align="left">
 <h3 align="left"  
 ### Languages and Tools:
@@ -30,7 +24,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
 </p>
 <div align="left">
-<div align="left">
+<div align="rigth">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Majoralphax&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark"/>	
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Majoralphax&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark" />
 </div>
