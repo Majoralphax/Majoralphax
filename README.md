@@ -22,11 +22,13 @@
 ![git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=orange)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
 
-<img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFraga962&layout=compact&theme=vision-friendly-dark" />
-
-<img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=GabrielFraga962&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
+<div align="left">
+<div align="left">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Majoralphax&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark"/>	
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Majoralphax&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark" />
+</div>
 <!--
-**majoralphax/majoralphax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub pr
+**Vcolvr/majoralphax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub pr
 
 
 
