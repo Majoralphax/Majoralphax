@@ -1,11 +1,12 @@
+
+# Tools and GitHub Stats <img src="https://i.pinimg.com/originals/84/90/f0/8490f0cab98f44a6e905a72cb61b72aa.gif" width="80px">
+<img align="right" width="60px" src="https://i.pinimg.com/originals/84/90/f0/8490f0cab98f44a6e905a72cb61b72aa.gif">
+
 # ʜᴇʟʟᴏ ᴡᴏʀᴅ👾
 - 🌱 I’m currently learning Java, My SQL, Angular and SpringBoot at GenerationBrasil.org
 - 👯 I’m looking to collaborate anywhere
 - 💬 Ask me about Robotics, São Paulo, Java, Cooking
 - ⚡ Fun fact: I know how to produce combustible gas from the rest of the garbage
-
-# Tools and GitHub Stats <img src="https://i.pinimg.com/originals/84/90/f0/8490f0cab98f44a6e905a72cb61b72aa.gif" width="10px">
-<img align="right" width="60px" src="https://media1.tenor.com/images/80c1604585f2ea5160e0a7d4a8cd3400/tenor.gif?itemid=12747764">
 
 ---
 ### Spotify Playing 🎧
