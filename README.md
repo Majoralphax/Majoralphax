@@ -7,6 +7,11 @@
 - ⚡ Fun fact: I know how to produce combustible gas from the rest of the garbage
 
 ---
+
+<img src="https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif" width="80px">
+
+
+
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Mateus Peixoto Spotify Playing" width="350" />](https://open.spotify.com/user/22xvctzavgbne7bgk2hxhtdwq)
