@@ -1,5 +1,8 @@
 
-# OLA SEJA BEM VINDO(a) <img src="https://i.pinimg.com/originals/84/90/f0/8490f0cab98f44a6e905a72cb61b72aa.gif" width="80px">
+<p align="center">
+  <h3 align="center">  OLA SEJA BEM VINDO(a) <img src="https://i.pinimg.com/originals/84/90/f0/8490f0cab98f44a6e905a72cb61b72aa.gif" width="80px"> </h3>
+</p>
+
 
 - 🌱 Atualmente estou aprendendo Java, My SQL, Angular e SpringBoot com GenerationBrasil.org
 - 👯 Procuro colaborar em qualquer lugar
@@ -10,6 +13,10 @@
 <img align="left" width="356" height="200" src="https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif">
 
 
+<p align="right">
+  <h3 align="center"> Aqui se encontra um pouco do meu trabalho. Fique a vontade para explorá-lo.  width="80px"> </h3>
+</p>
+ 
 
 ### Languages and Tools:
 
