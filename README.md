@@ -1,6 +1,5 @@
 
-# Tools and GitHub Stats <img src="https://i.pinimg.com/originals/84/90/f0/8490f0cab98f44a6e905a72cb61b72aa.gif" width="80px">
-<img align="right" width="60px" src="https://i.pinimg.com/originals/84/90/f0/8490f0cab98f44a6e905a72cb61b72aa.gif">
+# ʜᴇʟʟᴏ ᴡᴏʀᴅ <img src="https://i.pinimg.com/originals/84/90/f0/8490f0cab98f44a6e905a72cb61b72aa.gif" width="80px">
 
 # ʜᴇʟʟᴏ ᴡᴏʀᴅ👾
 - 🌱 I’m currently learning Java, My SQL, Angular and SpringBoot at GenerationBrasil.org
