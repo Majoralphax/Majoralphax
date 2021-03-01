@@ -6,20 +6,11 @@
 - 💬 Ask me about Robotics, São Paulo, Java, Cooking
 - ⚡ Fun fact: I know how to produce combustible gas from the rest of the garbage
 
----
+----
 
-<img align="right" width="356" height="200" src="https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif">
+<img align="left" width="356" height="200" src="https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif">
 
 
----
-
-### Connect with me:
-
-<div align="right">
-[<img align="left" alt="Rilton maicel | LinkedIn" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1614500518~hmac=c4116eb47140c3d1d86b18acd211e89f" />](https://www.linkedin.com/in/rilton-maciel-611a83168/)
-</div>
-
-<br />
 
 ### Languages and Tools:
 
