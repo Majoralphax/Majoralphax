@@ -4,6 +4,9 @@
 - 💬 Ask me about Robotics, São Paulo, Java, Cooking
 - ⚡ Fun fact: I know how to produce combustible gas from the rest of the garbage
 
+# Tools and GitHub Stats <img src="https://i.pinimg.com/originals/84/90/f0/8490f0cab98f44a6e905a72cb61b72aa.gif" width="10px">
+<img align="right" width="60px" src="https://media1.tenor.com/images/80c1604585f2ea5160e0a7d4a8cd3400/tenor.gif?itemid=12747764">
+
 ---
 ### Spotify Playing 🎧
 
@@ -35,12 +38,6 @@
 <!--
 **Vcolvr/majoralphax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats-mateuspeixoto.vercel.app/api?username=mateuspeixoto&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats-mateuspeixoto.vercel.app/api/top-langs/?username=mateuspeixoto&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
-
-<!--
-**Majoralphax/Majoralphax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -52,4 +49,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
