@@ -12,12 +12,12 @@
 
 <img align="left" width="356" height="200" src="https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif">
 
-
-<p align="right">
-  <h3 align="center"> Aqui se encontra um pouco do meu trabalho. Fique a vontade para explorá-lo.  width="80px"> </h3>
+<p align="center">
+  Aqui se encontra um pouco do meu trabalho. Fique a vontade para explorá-lo.
 </p>
- 
 
+<p align="left">
+<h3 align="left"  
 ### Languages and Tools:
 
 ![Java](https://img.shields.io/badge/Java-green?style=for-the-badge&logo=java&logoColor=white)
@@ -28,7 +28,7 @@
 ![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman&logoColor=orange)
 ![git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=orange)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
-
+</p>
 <div align="left">
 <div align="left">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Majoralphax&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark"/>	
