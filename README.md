@@ -22,13 +22,11 @@
 ![git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=orange)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
 
-<div align="left">
-<div align="left">
-<img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Majoralphax962&layout=compact&theme=vision-friendly-dark" />
-<img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=Majoralphax962&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
-</div>
+<img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFraga962&layout=compact&theme=vision-friendly-dark" />
+
+<img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=GabrielFraga962&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
 <!--
-**Vcolvr/majoralphax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**majoralphax/majoralphax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub pr
 
 
 
