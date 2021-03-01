@@ -8,19 +8,16 @@
 
 ---
 
-<img src="https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif" width="80px">
+<img align="right" width="356" height="200" src="https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif">
 
 
-
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Mateus Peixoto Spotify Playing" width="350" />](https://open.spotify.com/user/22xvctzavgbne7bgk2hxhtdwq)
+---
 
 ### Connect with me:
 
-
+<div align="right">
 [<img align="left" alt="Rilton maicel | LinkedIn" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1614500518~hmac=c4116eb47140c3d1d86b18acd211e89f" />](https://www.linkedin.com/in/rilton-maciel-611a83168/)
-
+</div>
 
 <br />
 
@@ -35,6 +32,7 @@
 ![git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=orange)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
 
+<div align="left">
 <div align="left">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Majoralphax&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>	
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Majoralphax&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
