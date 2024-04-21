@@ -4,7 +4,7 @@
 </p>
 
 
-- 🌱 Atualmente estou aprendendo Java, MySQL, Angular e SpringBoot com GenerationBrasil.org
+- 🌱 Adotei a metodologia de autoaprenndizado constante 
 - 👯 Procuro colaborar em qualquer lugar
      
 
