@@ -4,7 +4,7 @@
 </p>
 
 
-- 🌱 Adotei a metodologia de autoaprenndizado constante 
+- 🌱 Implementei a metodologia de aprendizado autônomo contínuo.
 - 👯 Procuro colaborar em qualquer lugar
      
 
